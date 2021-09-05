@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arjzxc000
 - 👀 I’m interested in Data Science ,Data Analyst and an investment
 - 🌱 I’m currently learning Machine Leaning and Deep learning
-- 💞️ I’m looking to collaborate on Agoda, Shopee and more
 - 📫 How to reach me `arjzxc.p@gmail.com`
 
 <!---
