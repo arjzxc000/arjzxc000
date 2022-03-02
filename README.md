@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arjzxc000
-- 👀 I’m interested in Data Science ,Data Analyst and an investment
+- 👋 Hi, I’m Peeranat Prasertpunt
+- 👀 I’m interested in Data Science ,Data Analyst and an Investment
 - 🌱 I’m currently learning Machine Leaning and Deep learning
 - 📫 How to reach me `arjzxc.p@gmail.com`
 
